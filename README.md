@@ -1,4 +1,6 @@
 # Monnit
+![Monnit logo](https://github.com/Tejas1000/Monnit/assets/88779332/9508d1a9-d95f-4ce5-93c9-2e76e8ff2744)
+
 Monnit is a system resources monitoring system that tracks your Windows system's performance metrics such as CPU usage, RAM usage, storage, and networking details. It does this by installing an agent on your Windows machine that runs a PHP script to collect data via command line. The agent then sends this data to a cloud database where it is securely stored for future analysis.
 
 The Monnit website provides a user-friendly interface for users to view the collected data. Users can visualize their system's data in various forms such as bar graphs, pie charts, and line graphs. This makes it easy to quickly understand how your system is performing over time and identify potential issues before they become critical.
